@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Build
+build/
+
+# Output
+out/
